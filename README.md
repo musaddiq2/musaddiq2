@@ -8,7 +8,8 @@
   </a>
 </p>
 
-I am a Full-Stack developer with Master in Computer Science. I am a continuous learner and interested in solving business problems with tech.
+I have a Master's degree in Computer Science and work as a Full-Stack developer. I am a lifelong student who is fascinated by using technology to solve business problems.
+
 
 My project includes:
 
