@@ -19,5 +19,5 @@ My project includes:
 
 [Qtrip](https://github.com/musaddiq2/Qtrip-Dynamic) : Qtrip is a travel website where users can browse the various Adventures on offer, based on their places of interest and book an Adventure. They can navigate between the pages by clicking on the cards and using the navigation bar. HTML, CSS, and Bootstrap is used to create the frontend.
 
-[Xboard](URL) : XBoard is a News Feed website that will feature the latest news for select topics, by using RSS from Flipboard. HTML, CSS, Bootstrap(Accordion & Carousel) and JavaScript is used to achieve this.
+[Xboard](https://xboard-blog.netlify.app/) : XBoard is a News Feed website that will feature the latest news for select topics, by using RSS from Flipboard. HTML, CSS, Bootstrap(Accordion & Carousel) and JavaScript is used to achieve this.
 You can check the code here.
