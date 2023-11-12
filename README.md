@@ -13,7 +13,7 @@ I have a Master's degree in Computer Science and work as a Full-Stack developer.
 
 My project includes:
 
-[QKart](https://github.com/musaddiq2/QKART_BACKEND) : Responsive E-commerce website with functionalities such as Sign-in/Sign-up, Product listing & search, adding products to cart and checkout. Frontend is implemented using React.js and Rest APIs are built using Express.js(Node.js)
+[QKart](https://qkartsshop.netlify.app/) : Responsive E-commerce website with functionalities such as Sign-in/Sign-up, Product listing & search, adding products to cart and checkout. Frontend is implemented using React.js and Rest APIs are built using Express.js(Node.js)
 
 [Xflix](URL) : Responsive video sharing/viewing website with functionalities such as search, sort, filter(genre/age) and upload. Frontend is implemented using React.js and Rest APIs are built using Express.js(Node.js). Data is persisted using MongoDB.
 
