@@ -1,25 +1,58 @@
 <div align="center">
-<h3>Hi ! I am Sayed Musaddiq 🙋‍♂️</h3>
-        
-</div>
-<p align="center">
-         <a href="https://www.linkedin.com/in/sayed-musaddiq-5922b2162/">
-    <img src="https://github.com/WaylonWalker/WaylonWalker/raw/main/icon/linkedin.png?raw=true" alt="linked icon">
+  <h2>👋 Hello, I'm Sayed Musaddiq</h2>
+  <p><strong>Full-Stack Developer | Passionate Problem Solver | Lifelong Learner</strong></p>
+  <a href="https://www.linkedin.com/in/sayed-musaddiq-5922b2162/">
+    <img src="https://github.com/WaylonWalker/WaylonWalker/raw/main/icon/linkedin.png" alt="LinkedIn" width="24px">
   </a>
-</p>
+</div>
 
-I have a Master's degree in Computer Science and work as a Full-Stack developer. I am a lifelong student who is fascinated by using technology to solve business problems.
+---
 
+🎓 **Education**
+- M.Sc. Computer Science – Dr. Babasaheb Ambedkar Marathwada University
+- B.Sc. Computer Science – Dr. Babasaheb Ambedkar Marathwada University
 
-My project includes:
+💼 **About Me**
 
-[QKart](https://qkartsshop.netlify.app/) : Responsive E-commerce website with functionalities such as Sign-in/Sign-up, Product listing & search, adding products to cart and checkout. Frontend is implemented using React.js and Rest APIs are built using Express.js(Node.js)
+I'm a Full-Stack Developer with a strong foundation in web development and a deep interest in building scalable, user-focused solutions. With a background in Computer Science and a fellowship in Full Stack Development from Crio, I thrive on solving real-world problems using modern technologies. I’m committed to writing clean, maintainable code and following best software engineering practices.
 
-[Qtrip](https://crio-qtrip-static.netlify.app/) : Qtrip is a travel website where users can browse the various Adventures on offer, based on their places of interest and book an Adventure. They can navigate between the pages by clicking on the cards and using the navigation bar. HTML, CSS, and Bootstrap is used to create the frontend.
+---
 
-[Xboard](https://xboard-blog.netlify.app/) : XBoard is a News Feed website that will feature the latest news for select topics, by using RSS from Flipboard. HTML, CSS, Bootstrap(Accordion & Carousel) and JavaScript is used to achieve this.
-You can check the code here.
+🛠️ **Tech Stack**
 
-[Qtify](https://l-square-q-tify-pearl.vercel.app/) : Qtify is a website serves as the digital gateway to a world of music and audio content. The user-friendly interface welcomes visitors with a sleek design, featuring easy navigation and quick access to a vast library of songs, albums, and podcasts. The homepage showcases curated playlists, personalized recommendations, and the latest releases, providing an immersive and dynamic music discovery experience. 
+**Frontend:** React.js, JavaScript, HTML, CSS, Bootstrap, Material UI  
+**Backend:** Node.js, Express.js  
+**Databases:** MongoDB, MySQL, PostgreSQL, Firebase  
+**Tools:** Git, Postman, VS Code, Jest  
+**Deployment:** Netlify, Heroku, Vercel  
 
-[Xflix](https://xflix-fullstack-adi.netlify.app/) : Responsive video sharing/viewing website with functionalities such as search, sort, filter(genre/age) and upload. Frontend is implemented using React.js and Rest APIs are built using Express.js(Node.js). Data is persisted using MongoDB.
+---
+
+🚀 **Highlighted Projects**
+
+- 🔗 [**QKart**](https://qkartsshop.netlify.app/)  
+  E-commerce platform with features like authentication, product search, cart management, and checkout.  
+  _Tech: React.js, Express.js, Node.js_
+
+- 🌍 [**QTrip**](https://crio-qtrip-static.netlify.app/)  
+  A travel experience booking website. Users can browse adventures and navigate seamlessly.  
+  _Tech: HTML, CSS, Bootstrap_
+
+- 📰 [**XBoard**](https://xboard-blog.netlify.app/)  
+  News feed aggregator powered by Flipboard RSS feeds with an interactive UI.  
+  _Tech: HTML, CSS, Bootstrap, JavaScript_
+
+- 🎧 [**Qtify**](https://l-square-q-tify-pearl.vercel.app/)  
+  Music streaming platform with curated playlists and latest releases.  
+  _Tech: React.js_
+
+- 📺 [**Xflix**](https://xflix-fullstack-adi.netlify.app/)  
+  A video sharing platform supporting search, genre filtering, uploads, and more.  
+  _Tech: React.js, Node.js, MongoDB_
+
+---
+
+📫 **Let’s Connect**
+I'm always open to collaborating on interesting projects, freelance work, or full-time roles. Feel free to reach out!
+
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue)](https://www.linkedin.com/in/sayed-musaddiq-5922b2162/)
