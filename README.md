@@ -95,8 +95,11 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=musaddiq2&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musaddiq2&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=musaddiq2&show_icons=true&theme=radical&include_all_commits=true&cache_seconds=86400" />
+
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=musaddiq2&layout=compact&langs_count=7&theme=radical&cache_seconds=86400" />
 </div>
 
 ---
